@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\bank_winform\Bank\bin\Debug\net7.0-windows\Bank.exe
+C:\Users\user\Desktop\bank_winform\Bank\bin\Debug\net7.0-windows\Bank.deps.json
+C:\Users\user\Desktop\bank_winform\Bank\bin\Debug\net7.0-windows\Bank.runtimeconfig.json
+C:\Users\user\Desktop\bank_winform\Bank\bin\Debug\net7.0-windows\Bank.dll
+C:\Users\user\Desktop\bank_winform\Bank\bin\Debug\net7.0-windows\Bank.pdb
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.AssemblyInfo.cs
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.dll
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\refint\Bank.dll
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.pdb
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\Bank.genruntimeconfig.cache
+C:\Users\user\Desktop\bank_winform\Bank\obj\Debug\net7.0-windows\ref\Bank.dll
